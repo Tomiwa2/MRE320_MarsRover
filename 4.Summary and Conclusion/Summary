@@ -1,1 +1,15 @@
+  The rover played a very big role in solidfying our understanding of sensors and actuators! WE can confidently say we
+have working knowlege of systems design with appropriate sensors and actuators, and  we can not only demonstrate good practice 
+in data acquisition and measurement but also use this knowledge to optimize the system and sensor
 
+ This mars rover task concludes the project designed for this class(sensors and actuators) and we could see that it was a build
+up from the first part where we measured and analyzed the performance and characteristics of some sensors everyday sensors including dht,
+ultrasonic etc (link attached in README.md)
+
+
+In conclusion,
+      With this project(s)/class we have been able to 
+-Become exposed to various types of actuators motor
+-Interface sensors and actuators with microcontroller
+-Understand sensor metrics including range, sensitivity, accuracy, repeatability, and noise 
+- Demonstrate knowledge of numerous sensor technologies and their applications !
