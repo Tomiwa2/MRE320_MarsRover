@@ -9,7 +9,8 @@ The design of a mars rover enabled us expand our sensing knowlege and capabiliti
 
       The project consisted of the mars rover assembly and two major tasks that covered the funtionalities of the rover.
       
-The  Mars Rover assembly was divided into three parts 
+The  Mars Rover assembly was divided into three parts,
+
     1. Hardware design including electrical setup -> This included buidling the body of the rover from ground up and setting up telemetry devices ie radios, antenna
     
     2. Software (Avionics) -> The is basically the Raspberry Pi and Navio2 Configuration which are the heart and brain of the system. The software section consisted of downloading the software needed to communicate with the hardware.
