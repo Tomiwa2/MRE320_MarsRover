@@ -1,1 +1,28 @@
+                                                 Improvments/Plans to improve the rover
 
+-Figure out DS 1307 module(RTC) and use data to buffer timestamp from rover. 
+
+-Add more sensors like ultrasonic to detect obstacles. Ran into one during a launch
+
+-Do more PID tuning to decrease runtime and increase accuracy to path.
+
+-Expose the Navio2/PI so it can directly read from atmosphere, that way we could acquire better and even more
+accurate readings
+ 
+-Get rid of noise in Baro.Alt Readings
+
+
+   As we wanted to improve our learning experience, we did try out some of the plans above which yielded fruitful!
+- We did more PID tuning and got better runtine and accuracy (wich can be seen in the PID file) although we plan to do more as we believe we can 
+get an even better accuracy if given the time
+
+ But getting better results left us with even more plans to improve the rover 
+- Do more reasearch on maybe how the rover could be solar powered! This is tied to us also wanting to test in hot temperature 
+as opposed to the lukewarm we exposed the rover/sensor to
+
+- Add a camera to the rover so we would not have to go to the testing sites with the rover all the time 
+
+- Try different wheels on the rover so it could operate on multiple terrains 
+
+  There is so much more we could do with the mars rover but we can confidently say we have more than enough to purse this even way beyond the walls of 
+this course!
