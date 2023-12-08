@@ -11,11 +11,10 @@ The design of a mars rover enabled us expand our sensing knowlege and capabiliti
    This a a very educative project with aid from @Brandonh291 and all steps needed for configuration can be found in his repo > https://github.com/Brandonh291/Masters-Project-for-Raspberry-Pi-Based-Companion-Computer 
 
       The project consisted of the mars rover assembly and two major tasks that covered the funtionalities of the rover.
+      
 The  Mars Rover assembly was divided into three parts 
     1. Hardware design including electrical setup -> This included buidling the body of the rover from ground up and setting up telemetry devices ie radios, antenna
-    
     2. Software (Avionics) -> The is basically the Raspberry Pi and Navio2 Configuration which are the heart and brain of the system. The software section consisted of downloading the software needed to communicate with the hardware.
-    
     3. External Sensor -> This included mounting additional sensors to gauge/buffer the precison/accuracy of sensors onborad the rover. We attached two sensors namely
      i) DHT 11 (Temperature and Humidity Sensor)
      ii) DS 1307 Module(Real time clock(RTC))
